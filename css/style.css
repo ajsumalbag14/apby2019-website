@@ -28,7 +28,8 @@ body {
   line-height: 25px;
   color: #EBECBA;
   font-family: 'Gotham Black';
-  background: #272727;
+  /*background: #272727;*/
+  background: url('../assets/img/baguio-city.jpg') no-repeat, #272727;
 }
 
 h1,
@@ -574,7 +575,7 @@ a:active {
 footer {
   font-family: 'Gotham Medium';
   text-align: center;
-  background: #272727;
+  /*background: #272727;*/
   padding: 27px 0px;
 }
 

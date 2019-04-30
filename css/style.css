@@ -492,8 +492,6 @@ a:active {
 .workshops-area {
   height: 100%;
   display: flex;
-  justify-content: center;
-  text-align: center;
 }
 
 .workshops-area h2 {
